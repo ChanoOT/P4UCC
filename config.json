@@ -1,0 +1,27 @@
+{
+	"folders" : {
+		"input_folder" : "test/",
+		"input_files" : ["5D4KVPG4","5D4KVPIN","5D4KVPXD","5D4KVPYD","5D4KVQ9U",
+                         "5D4KX3EC","5D4KX3RR","5D4KX3TQ","5D4KX5G9","5D4KX9N2",
+						 "5D4KX9SD","5D4KX38L","5D4KX40Y","5D4KX76F","5D4L1JIE",
+						 "5D4L1MGO","5D4L1P8E","5D4L1RW5", "5D4L1TDI","5D4L1TX7"
+                         ],
+		"output_folder" : "output/",
+        "config_help_1" : "Choose existing folders for input and output files.", 
+        "config_help_2" : "You can introduce in input_files all the point clouds at once.",
+
+        "config_help_3" : "It expects the .txt format, not the .laz",
+        "config_not_use_1" : ["5D4KVPBP","5D4KVPC9","5D4KVPDO","5D4KVPFI","5D4KVPJE",
+                        "5D4KVPT5","5D4KVPX2","5D4KVQ0P","5D4KVRER",
+                         "5D4KVRWC","5D4KVT9X",
+                         "5D4KX3PZ","5D4KX3VN","5D4KX4QC","5D4KX4ZE",
+                         "5D4KX5NM","5D4KX6L3","5D4KX6T5","5D4KX7FN",
+                         "5D4KX7IA","5D4KX7RD","5D4KX8IR","5D4KX8UQ",
+                         "5D4KX56H","5D4KX66R",
+                         "5D4KX826","5D4KX993","5D4KXA0G","5D4KXB8D",
+                         "5D4KXBC8","5D4KXBTC","5D4L1GZR","5D4L1IQ4","5D4L1M3I",
+                         "5D4L1QP2","5D4L1RDR","5D4L1TH9","5D4L1TYC","5D4L1WHI",
+                         "5D4L1XPJ","5D4L1Y38","5D4L1YDX","5D4L2BFI",
+                         "5D4L2FRJ","5D4l2G9K","5D4LHQUX"]
+	}
+}
